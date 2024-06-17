@@ -7,7 +7,7 @@ The goal of this project was to create a password generator.
 - My motivation was to make a functional password generator.
 - I built this project to further my skills and proficiency in basic Javascript.
 - The main solution I strove for was to make the generator functional given the starter code.
-- My main learning experience from this project was how effectively take someone's code and build off it.
+- My main learning experience from this project was how to effectively take someone's code and build off it.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Take a look at the main page!
 
 ## Credits
 
-JOSH COMEAU'S CSS RESET (used for reset.css) (https://www.joshwcomeau.com/css/custom-css-reset/)
+No other developer's code was added.
 
 ## License
 
